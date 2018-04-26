@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_devices.xml",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\layout\\row_devices.xml"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_detail.xml",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\layout\\device_detail.xml"
+    }
+]

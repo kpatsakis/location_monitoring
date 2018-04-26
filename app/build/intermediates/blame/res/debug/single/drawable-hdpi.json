@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_discover.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-hdpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_on_off.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-hdpi\\ic_action_on_off.png"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

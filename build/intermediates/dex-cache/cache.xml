@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_f108210366d5b52ca046b62fc98b9cd7ceeae71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_98c0417a287750fb7b3cfa44e9bfbb428a747039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_807d8511fd475ffb314f297d8141ce844ea81515.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\wifidirectdemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bb57b43b4c2464e2c628a52433a869100a0a823">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\wifidirectdemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9cdcb4d8a3fa0850647d4de947be5da1a79e102c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\wifidirectdemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d15eb22f9cc6ce2d3b1d6a34291dbb1ee4abf10">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\wifidirectdemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86291104584d7b3ac8adafa2580430d823f1ff6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_c43f867b51bf771a7eb9a0fd8eba95638e12face.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_3537a609c93f91438adbf4151f5ee62564fbdd9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_33e7bd50be7cce1bb5fe7fb1a616e67ca96c9c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_5dd7f0616da6b4102582f2f690867b4b4a4166bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_a19fd3f60a6f2ef335dc589b0dd4c12834fb82ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_697d2341646860a96d4b181aa43fa7ece79e4907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="240a55d1e5379746d74f40f53afefd793239e1ee">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_bb5d737f6d36ace33e3471d895e85db7308c7f61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_8f8749462f0927d4dac3d023cd073cbbb03594b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_1078662ea0c6b847e56c6f9c0e9ea726dec4ff57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0c6af05c9ca303319df7456cf65d5c914c9f2643">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\WifiP2PWally\app\build\intermediates\pre-dexed\debug\instant-run_08ec36e3b3032bf5b46dc96b7cf8a1e11e96466a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 53,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 50,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 49,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 49,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 49,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 49,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 276,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 51,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 126,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 126,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 166,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 439,
+                        "endColumn": 166,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 55,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 55,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 143,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 143,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 61,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 61,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 58,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 58,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 26,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 34,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 65,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 65,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 56,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 56,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 109,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 109,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 81,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 81,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 58,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 58,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 103,
+                    "endOffset": 1545
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 103,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1550,
+                    "endColumn": 102,
+                    "endOffset": 1648
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 102,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1653,
+                    "endColumn": 119,
+                    "endOffset": 1768
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 119,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1773,
+                    "endColumn": 98,
+                    "endOffset": 1867
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 98,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1872,
+                    "endColumn": 69,
+                    "endOffset": 1937
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 69,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 49,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 49,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 56,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 921,
+                        "endColumn": 56,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 33,
+                    "endOffset": 2078
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 33,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2083,
+                    "endColumn": 102,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 102,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endColumn": 35,
+                    "endOffset": 2217
+                },
+                "from": {
+                    "file": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 35,
+                        "endOffset": 466
+                    }
+                }
+            }
+        ]
+    }
+]

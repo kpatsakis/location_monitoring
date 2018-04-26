@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_discover.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_discover.png"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_on_off.png",
+        "source": "E:\\Dropbox\\android_apps\\androidstudiodellssd\\WifiP2PWally\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_on_off.png"
+    }
+]

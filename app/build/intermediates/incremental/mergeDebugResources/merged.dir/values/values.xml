@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="layout_border_color">#4b536c</color>
+    <color name="status_bar_color">#554375</color>
+    <dimen name="phone_list_height">200dp</dimen>
+    <dimen name="tablet_list_width">300dp</dimen>
+    <integer name="google_play_services_version">10084000</integer>
+    <string name="app_name">WiFi P2P Unipi</string>
+    <string name="client_text">This device will act as a client. Click on Gallery button to pick a local(stored) file</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="connect_peer_button">Connect</string>
+    <string name="default_web_client_id" translatable="false">444619669292-dg3j8n148tt3ccj68fnqgco3vpjro7ti.apps.googleusercontent.com</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="empty"/>
+    <string name="empty_message">No devices found yet...</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="firebase_database_url" translatable="false">https://findwally-5c285.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">444619669292</string>
+    <string name="get_file_button">Launch Gallery</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUc9rmuThvPU2Q_n-YKxWDQ9hroF_r8gE</string>
+    <string name="google_app_id" translatable="false">1:444619669292:android:17c4cbf9040d85b7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUc9rmuThvPU2Q_n-YKxWDQ9hroF_r8gE</string>
+    <string name="google_storage_bucket" translatable="false">findwally-5c285.appspot.com</string>
+    <string name="group_owner_text">"Am I the Group Owner? "</string>
+    <string name="label_me">Device Name:</string>
+    <string name="label_peers">Devices Near Me:</string>
+    <string name="no">no</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="yes">yes</string>
+</resources>
